@@ -1,12 +1,29 @@
-## Bravium Workspace 👋
+# Bravium Workspace 👋
+Bravium is a smart workspace app that helps you organize your work and get things done faster.
 
-<!--
+## 🧩 Core Features (MVP)
+1. Task Management
++ Create / edit / delete tasks
++ Due dates, priority, status (To-Do / In Progress / Done)
++ Task categories or tags
++ Attach files or links to tasks
 
-**Here are some ideas to get you started:**
+2. Projects / Workspaces
++ Group tasks under projects
++ Project-level overview (progress %, total tasks, deadlines)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+3. Calendar & Timeline View
++ Daily / weekly / monthly calendar view
++ Drag-and-drop task scheduling
+
+4. Reminders & Notifications
++ Desktop notifications for upcoming deadlines
++ Optional email reminders
+
+5. Search & Filter
++ Quick search bar for tasks/projects
++ Filter by due date, tag, priority, or assignee
+  
+6. User Accounts
++ Login/signup
++ Local or cloud sync
